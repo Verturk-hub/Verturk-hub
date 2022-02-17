@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Verturk-hub
-- 👀 I’m interested in IT education
+- 👀 I’m interested in AWS Cloud Training
 - 🌱 I’m currently learning Python, Neural Networks
 - 💞️ I’m looking to collaborate on any coding exercise
 - 📫 How to reach me == from here
