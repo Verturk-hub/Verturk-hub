@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Verturk-hub
+- 👋 Hi, I’m Hazel
 - 👀 I’m interested in Data Analysis with Python
 - 🌱 I’m currently learning Python, Neural Networks
 - 💞️ I’m looking to collaborate on any coding exercise
