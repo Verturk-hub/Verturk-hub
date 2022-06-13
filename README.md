@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hazel
+- 👋 Hi, this is Vildan
 - 👀 I’m interested in ML, AI, and Deep Learning
 - 🌱 I’m currently practicing Python and SQL
 - 💞️ I’m looking to collaborate on any coding exercise
